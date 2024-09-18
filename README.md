@@ -59,7 +59,7 @@
     <div style="margin-right: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamseekm&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
         <img src="https://github-readme-stats.vercel.app/api?username=vamseekm&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vamseekm&theme=blueberry&count_private=true&hide_border=true&line_height=20)">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamseekm&layout=compact&theme=blueberry&count_private=true&hide_border=true)">
+        <img src="https://github-readme-stats.vercel.app/api?username=vamseekm&theme=blueberry&count_private=true&hide_border=true&line_height=20)" style="height: 197px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamseekm&layout=compact&theme=blueberry&count_private=true&hide_border=true)" style="height: 197px;">
     </div>
 </div>
