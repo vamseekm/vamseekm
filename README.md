@@ -26,7 +26,14 @@
 ## Frontend:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nextjs,react"/>
+   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+  </a>
+</p>
+
+## OS, Cloud, Container:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=aws,arch,debian,linux,docker,kubernetes"/>
   </a>
 </p>
 </div>
