@@ -19,7 +19,7 @@
 ## Backend:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,redis"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express"/>
   </a>
 </p>
 
