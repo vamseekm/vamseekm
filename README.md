@@ -1,25 +1,10 @@
 
 <div id="badges">
 
-## 🛠️ Languages and Tools:
-<p>
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,python,haxe,haxeflixel,nextjs,react,bun,prisma,nodejs,express,redis,mongodb,mysql,postgres,aws,tailwind,git,arch,debian,linux,docker,kubernetes,rabbitmq,grafana,vim"/>
-  </a>
-</p>
-
 ## Languages:
 <p>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,python"/>
-  </a>
-</p>
-
-
-## Backend:
-<p>
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,express"/>
   </a>
 </p>
 
@@ -30,10 +15,39 @@
   </a>
 </p>
 
+## Backend:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nodejs,express,bunjs"/>
+  </a>
+</p>
+
+## Database:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres"/>
+  </a>
+</p>
+
+
 ## OS, Cloud, Container:
 <p>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=aws,arch,debian,linux,docker,kubernetes"/>
+  </a>
+</p>
+
+## Others:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=rabbitmq,grafana,vim"/>
+  </a>
+</p>
+
+## Gaming:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=haxe,haxeflixel"/>
   </a>
 </p>
 </div>
