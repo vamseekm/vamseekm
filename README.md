@@ -11,7 +11,7 @@
 ## Frontend:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite"/>
   </a>
 </p>
 
