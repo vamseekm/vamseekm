@@ -4,7 +4,7 @@
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,nextjs,docker,aws,html,css,bootstrap,tailwind,jquery,java,firebase,git,github"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,mysql,postgresql,aws,tailwind,git,docker,kubernetes,nvim"/>
   </a>
 </p>
 </div>
