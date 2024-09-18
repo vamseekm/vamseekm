@@ -14,4 +14,19 @@
    <img src="https://skillicons.dev/icons?i=javascript,typescript,rust,go,python"/>
   </a>
 </p>
+
+
+## Backend:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nodejs,express,redis"/>
+  </a>
+</p>
+
+## Frontend:
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nextjs,react"/>
+  </a>
+</p>
 </div>
