@@ -11,36 +11,30 @@
 ## Frontend:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite"/>
+   <img src="https://skillicons.dev/icons?i=react,vue"/>
   </a>
 </p>
 
-## Backend:
-<p>
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,bun"/>
-  </a>
-</p>
 
 ## Database:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres"/>
+   <img src="https://skillicons.dev/icons?i=redis,mongodb,postgres"/>
   </a>
 </p>
 
 
-## OS, Cloud, Container:
+## OS, Container:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=aws,arch,debian,linux,docker,kubernetes"/>
+   <img src="https://skillicons.dev/icons?i=debian,docker"/>
   </a>
 </p>
 
 ## Others:
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=rabbitmq,grafana,vim"/>
+   <img src="https://skillicons.dev/icons?i=rabbitmq,vim"/>
   </a>
 </p>
 
